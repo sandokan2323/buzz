@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FizzBuzzEnterpriseEdition
 
 [![Build status][Build status image]][Build status URL] [![codecov.io](https://codecov.io/github/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition/coverage.svg?branch=master)](https://codecov.io/github/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition?branch=master)
@@ -25,3 +26,7 @@ For numbers 1 through 100,
 * if the number is divisible by 5 print Buzz;
 * if the number is divisible by 3 and 5 (15) print FizzBuzz;
 * else, print the number.
+=======
+# buzz
+hola mundo
+>>>>>>> 605b9010ccf9bd50b32b8daaddea5ea967965345
